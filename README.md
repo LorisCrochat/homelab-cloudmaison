@@ -8,7 +8,7 @@ Ce dépôt documente ce qui est réellement en service : l'architecture, les cho
 
 > Par sécurité, ce dépôt ne contient **aucune** adresse IP ou MAC, aucun nom d'hôte, aucun port, aucun identifiant, mot de passe ou e-mail, ni aucune configuration détaillée permettant de cibler l'infrastructure. Les captures d'écran utilisent des données fictives.
 
-![Accueil de CloudMaison V2](images/accueil.png)
+![Accueil de CloudMaison V2](accueil.png)
 
 ## En bref
 
