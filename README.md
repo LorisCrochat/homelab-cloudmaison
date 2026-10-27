@@ -82,6 +82,4 @@ Les problèmes réels rencontrés et leur résolution (proxy inverse et cookies 
 
 Windows Server 2022 · Active Directory · GPO · NTFS · IIS · URL Rewrite · Let's Encrypt (win-acme) · ASP.NET Core 10 · Razor Pages · C# · PowerShell · Planificateur de tâches · Sauvegarde Windows Server · Tailscale · ntfy · HTML/CSS/JS
 
----
 
-Projet personnel de **Célian Crochat**, étudiant en BUT Réseaux & Télécommunications. Portfolio : [crochatcelian.fr](https://crochatcelian.fr)
